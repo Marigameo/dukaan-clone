@@ -1,0 +1,9 @@
+.search {
+  padding: 7px 28px 6px 40px;
+  width: 100%;
+  font-size: 16px;
+  line-height: 26px;
+  background-color: #f2f2fc;
+  border: 1px solid transparent;
+  border-radius: 6px;
+}

@@ -1,0 +1,7 @@
+.productWrapper {
+  display: flex;
+  padding: 2rem;
+}
+.content {
+  margin-left: 3rem;
+}
